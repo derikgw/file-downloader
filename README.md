@@ -1,1 +1,2 @@
 # file-downloader
+-d=./idz_16.zip -l="https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?popup=Y&li_formnum=L-HNUZ-8PM2FG&accepted_url=https://public.dhe.ibm.com/ibmdl/export/pub/software/htp/zos/tools/aqua3.3/direct/idz-16.0.x_im_repo.zip" -u="https://public.dhe.ibm.com/ibmdl/export/pub/software/htp/zos/tools/aqua3.3/direct/idz-16.0.x_im_repo.zip" --progressLog="./FileDownloader.log"
